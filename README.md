@@ -2,7 +2,7 @@
 
 ## Hakkımda
 
-Merhaba! Ben [adınız]. [Okulunuz/bölümünüz] öğrencisiyim. Programlama öğrenmeye ve Java ile küçük projeler geliştirmeye ilgi duyuyorum.
+Merhaba! Programlama öğreniyorum ve Java ile küçük uygulamalar geliştiriyorum. Bu repoda paylaştığım projelerle öğrendiklerimi pekiştiriyorum.
 
 ## Program
 
